@@ -6,9 +6,9 @@ Intro
 
 你可以輕易透過 http://yourdomain.com/source/[IMAGE_ID] 得到你的圖片
 
-如果您想要圖片圖片變成 寬度100高度隨比例縮放，只需要透過 http://yourdomain.com/image/[IMAGE_ID]/100 即可取得
+如果您想要圖片圖片變成 寬度100高度隨比例縮放，只需要透過 http://yourdomain.com/image/[IMAGE_ID]/100 取得
 
-如果您想要圖片圖片變成 高度ㄉ00寬度隨比例縮放，只需要透過 http://yourdomain.com/image/[IMAGE_ID]/0/100 即可取得
+如果您想要圖片圖片變成 高度200寬度隨比例縮放，只需要透過 http://yourdomain.com/image/[IMAGE_ID]/0/200 取得
 
 值得一提，您可以限定使用者下載的秒數，預設是 90 秒鐘，使用者可以有下載該圖片的權限
 
