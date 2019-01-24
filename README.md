@@ -45,6 +45,7 @@ a9connesctionstring : 您在 Azure 上面的 connection string
 bloname : 所建立起來的 blob name (請注意，這邊 azure 那邊規定是全小寫，不可以有特殊符號)
 
 uploadtoken :  使用者上傳需要給的 token
+
 user_token_life_seconds : 使用者看到圖片，之後多久之後那張就會失效 
 
 C# Upload Sample
