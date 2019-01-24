@@ -1,4 +1,4 @@
-# N2Image Agent for Azure Blob
+# N2Image Agent + Azure Blob
 
 Intro
 ----
